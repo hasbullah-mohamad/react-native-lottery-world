@@ -1,0 +1,1 @@
+https://loteriasdominicanas.com/mobile-api-new/config

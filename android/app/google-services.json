@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_number": "747734094288",
+    "firebase_url": "https://loto-mundo.firebaseio.com",
+    "project_id": "loto-mundo",
+    "storage_bucket": "loto-mundo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747734094288:android:0708204ade02ab2b",
+        "android_client_info": {
+          "package_name": "lotomundo.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747734094288-8m16g8nvjmdrkb5isjvocrq3js9rtb6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByK8AoGXJacE4M5jF7L3aupDYpZCI1nmI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-1196303242456869~6416749980"
+    }
+  ],
+  "configuration_version": "1"
+}
